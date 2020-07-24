@@ -27,10 +27,10 @@ Cas d'usages intérmédiaires :
 - Younes a la possibilité de réserver une place sécurisée pour une ou plusieurs plages de temps tout en respectant les contraintes de sécurité mises en place pour préserver la santé de tous.
 - Younes peut voir combien de places sont libres ainsi que leur localisation/position.
 - Les places proposées à Younes devront respecter les règles d'occupations suivantes :
-   1. 50% de places réservées au maximum pour une zone donnée.
-   2. 2 places attribuées ne pourront être situées l'une à côté de l'autre, ni en face l'une de l'autre.
-   3. Les places ne sont pas nominatives (personne ne possède de place).
-   4. Les Administrateurs peuvent changer la disponibilité des places.
+ 1. 50% de places réservées au maximum pour une zone donnée.
+ 2. 2 places attribuées ne pourront être situées l'une à côté de l'autre, ni en face l'une de l'autre.
+ 3. Les places ne sont pas nominatives (personne ne possède de place).
+ 4. Les Administrateurs peuvent changer la disponibilité des places.
 
 Cas d'usages avancés, la solution permettrait à Younes de:
 
