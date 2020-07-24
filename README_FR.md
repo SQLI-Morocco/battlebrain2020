@@ -108,7 +108,7 @@ Le Jury va évaluer votre solution en se basant sur les axes suivants en notant 
 ## Comment soumettre votre solution
 
 - Créer ou utiliser votre compte sur Github 
-- [Forker](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) **de façon privé** ce repository et y mettre vos artefacts de la solution dans les dossiers correpondants (code, vidéos).
+- [Duplicate/Fork](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository) **de façon privé** ce repository et y mettre vos artefacts de la solution dans les dossiers correpondants (code, vidéos).
 - Une fois prêt à soumettre votre solution, [ajouter/inviter](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) le compte utilisateur du membre du comité fournit en tant qu'utilisateur Read Only de votre repository. 
 
 ### Pendant l'événement
