@@ -4,7 +4,7 @@
 
 SQLI Internal Hackathon BattleBrain 2020
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![BatteBrain2020](https://github.com/nabil/template/raw/master/content/images/battlebrain2020ut.png)](https://www.youtube.com/watch?feature=player_embedded&v=j-m7fWnJSqY)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![BatteBrain2020](https://github.com/SQLI-Morocco/battlebrain2020/raw/master/content/images/battlebrain2020ut.png)](https://www.youtube.com/watch?feature=player_embedded&v=j-m7fWnJSqY)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ## Topic
 
