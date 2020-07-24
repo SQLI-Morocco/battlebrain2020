@@ -1,0 +1,15 @@
+target/
+.idea/
+.vscode/
+.metadata
+*.lnk
+*.ipr
+*.iws
+*.iml
+*.orig
+data_*/
+*.eml
+*.zip
+*.jar
+*.patch
+*.class
