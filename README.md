@@ -107,7 +107,7 @@ The Jury will evaluate your solution based on the following axis by applying a s
 ## How To Submit Your Solution
 
 - Create or use your Account on Github 
-- [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) **privately** this repository and put your solutions artefacts in the dedicated folders (Video, Code)
+- [Duplicate/Fork](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository) **privately** this repository and put your solutions artefacts in the dedicated folders (Video, Code)
 - Once you are ready to submit your solution, [add/invite](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) the provided committee users as Read Only users to your repository. 
 
 ### During the Event
