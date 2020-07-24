@@ -27,10 +27,10 @@ Intermediate Uses Cases:
 - Younes has the possibility to book a secure seat for one or more time ranges based on pre-defined health security policy constraints.
 - Younes can see how many seats are available and their location/position.
 - The provided seats for Younes should comply to occupency rules: 
-   1. 50% of all seats in one area are occupied at most.
-   2. No two seats are directly located next or in front of each other.
-   3. Seats are not named (no one owns the seat).
-   4. Admin can override seat availability.
+ 1. 50% of all seats in one area are occupied at most.
+ 2. No two seats are directly located next or in front of each other.
+ 3. Seats are not named (no one owns the seat).
+ 4. Admin can override seat availability.
 
 Advanced Uses Cases, the solution should be able to:
 
